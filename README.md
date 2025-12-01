@@ -1,4 +1,3 @@
-# .github
 # 🍽️ Chomp – Short-Form Food Discovery
 
 Welcome to the **Chomp** GitHub organization.
